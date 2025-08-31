@@ -8,17 +8,18 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
+- Nome: Victor Gabriel Soares Ananias
+- Matricula: 903685
+- Proposta de projeto escolhida: 5. Temas e Conteúdos Associados" com tema de Tema e vídeos, curso e aulas, categoria e dicas
 - Breve descrição sobre seu projeto:
-
+Meu projeto é uma platafora de ensino, contendo nela cursos, videos e dícas. Com foco principal em assuntos ligados a tecnologia, desenvolvimento, marketing, etc...
 
 ## Print do(s) wireframe(s) criado
 
-<<  COLOQUE A IMAGEM AQUI >>
+![print wireframe](image.png)
 
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![home-page](image-1.png)
+![home-page2](image-3.png)
